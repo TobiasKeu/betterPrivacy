@@ -108,6 +108,7 @@ All settings live under **Discord Settings → Vencord → Plugins → BetterPri
 - This is a visual-only tool. It cannot protect against screen recording software, physical shoulder-surfing, or anything happening outside Discord's own rendering.
 - Some selectors are matched against Discord's internal DOM structure, which can occasionally change after a Discord update and stop matching. If something stops blurring after a Discord update, that's usually why.
 - Vencord itself is an unofficial client modification and sits outside Discord's Terms of Service. Enforcement has historically been lax, but this isn't a guarantee.
+- This is a early version, not the final build. You may encounter bugs, or elements that arent hidden. If you do find anything please open a ticket on our Discord server.
 
 ---
 
