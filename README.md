@@ -2,7 +2,7 @@
 
 A client-side, purely visual privacy toolkit for Discord, built as a [Vencord](https://vencord.dev/) userplugin.
 
-BetterPrivacy blurs, hides, or locks the parts of Discord that can identify you or the people you talk to — profiles, messages, servers, and DMs — entirely on your own machine. It never talks to a server, never changes what Discord itself receives, and doesn't collect any data or telemetry.
+BetterPrivacy blurs, hides, or locks the parts of Discord that can identify you or the people you talk to: profiles, messages, servers, and DMs. It never talks to a server, never changes what Discord itself receives, and doesn't collect any data or telemetry.
 
 > **Heads up:** this is purely a visual layer on top of Discord's normal UI. It does not encrypt messages, protect against external screen-recording/screenshot tools, secure your account, or stop Discord's servers from receiving anything. It only changes what *you* see rendered on your own screen.
 
